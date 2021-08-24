@@ -1,0 +1,5 @@
+C:\Users\92068\OneDrive\Desktop\SpoolSample-master(2)\SpoolSample-master\SpoolSample\bin\Release\SpoolSample.exe.config
+C:\Users\92068\OneDrive\Desktop\SpoolSample-master(2)\SpoolSample-master\SpoolSample\bin\Release\SpoolSample.exe
+C:\Users\92068\OneDrive\Desktop\SpoolSample-master(2)\SpoolSample-master\SpoolSample\obj\x64\Release\SpoolSample.csproj.AssemblyReference.cache
+C:\Users\92068\OneDrive\Desktop\SpoolSample-master(2)\SpoolSample-master\SpoolSample\obj\x64\Release\SpoolSample.csproj.CoreCompileInputs.cache
+C:\Users\92068\OneDrive\Desktop\SpoolSample-master(2)\SpoolSample-master\SpoolSample\obj\x64\Release\SpoolSample.exe
